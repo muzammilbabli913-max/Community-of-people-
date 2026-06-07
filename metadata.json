@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Community Exchange",
+  "description": "A neighborhood community platform featuring secure user profile setup, map-based neighbor listings with radius filters, categories, and direct messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
